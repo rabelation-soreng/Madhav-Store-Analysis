@@ -1,5 +1,5 @@
 # Madhav-Store-Analysis
-Owner of Madhav Store wants Me to help them create a dashboard to track and analysis their online sales across India.
+Owner of Madhav Store wants Me to help him, to create a dashboard to track and analysis their online sales across India.
 
 Key Points 
 • Data collection 
