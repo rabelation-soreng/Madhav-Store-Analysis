@@ -1,6 +1,6 @@
 # Madhav E-commerce Store
 Owner of Madhav Store wants Me to help him, to create a dashboard to track and analysis their online sales across India.
-
+---
 Key Points 
 • Data collection 
 • Data cleaning & wrangling 
@@ -8,8 +8,9 @@ Key Points
 • Data visualization 
 • Dashboard design 
 • Sharing Insights
-
+---
 E-Commerce Performance Analysis – Madhav E-Commerce Store  
+---
 
 1 Sales & Profit Overview:  
 Total Sales: 438K  
@@ -72,3 +73,5 @@ Electronics (3242%) and Furniture (2098%) follow
 
 Insight:  
 Fashion dominates sales, but electronics and furniture are also key revenue drivers Expanding product variety in these segments could increase overall sales
+
+---
